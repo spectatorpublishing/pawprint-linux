@@ -1,0 +1,1 @@
+lpadmin -p PawPrint-Printing -v lpd://pawprtprodprt2.cuit.columbia.edu/PawPrint -o printer-is-shared=false -o Duplex=DuplexNoTumble -o HPOption_Duplexer=True -E -P HPLaserJet5200.gz
